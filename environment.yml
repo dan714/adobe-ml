@@ -3,5 +3,7 @@ channels:
   - defaults
 dependencies:
   - pylint
+  - numpy
+  - matplotlib
 prefix: /Users/dan/Github/adobe-ml/conda-env
 
