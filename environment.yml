@@ -7,5 +7,6 @@ dependencies:
   - matplotlib
   - pandas
   - scikit-learn
+  - jupyter
 prefix: /Users/dan/Github/adobe-ml/conda-env
 
