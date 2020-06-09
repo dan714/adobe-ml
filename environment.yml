@@ -5,5 +5,7 @@ dependencies:
   - pylint
   - numpy
   - matplotlib
+  - pandas
+  - scikit-learn
 prefix: /Users/dan/Github/adobe-ml/conda-env
 
