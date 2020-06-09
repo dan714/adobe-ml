@@ -13,4 +13,4 @@ Install Anaconda Python
   conda env update --prefix ./env --file environment.yml  --prune
 
 ## Export & Check In Environment
-  conda env export --from-history
+  conda env export --from-history > environment.yml
