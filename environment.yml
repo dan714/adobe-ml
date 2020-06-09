@@ -1,0 +1,7 @@
+name: /Users/dan/Github/adobe-ml/conda-env
+channels:
+  - defaults
+dependencies:
+  - pylint
+prefix: /Users/dan/Github/adobe-ml/conda-env
+
