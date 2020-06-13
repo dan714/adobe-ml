@@ -8,5 +8,7 @@ dependencies:
   - pandas
   - scikit-learn
   - jupyter
+  - seaborn
+  - graphviz
 prefix: /Users/dan/Github/adobe-ml/conda-env
 
