@@ -1,3 +1,4 @@
 .vscode/*
 conda-env/*
 *__pycache__*
+*.code-workspace
